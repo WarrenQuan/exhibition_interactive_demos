@@ -1,5 +1,5 @@
 # Interactive Demos for Exhibition
-Through prototyping, I investigated differents ways for visitors to access information about artworks in the Brooklyn Artists Exhibition, both two dimensional and three dimensional. Through this, I looked into libraries and softwares such as Micr.io, third-party naviagation websites, and from scratch with ThreeJS. 
+Through prototyping, I investigated differents ways for visitors to access information about artworks in the Brooklyn Artists Exhibition, both two dimensional and three dimensional. Through this, I looked into libraries and softwares such as Micr.io, third-party naviagation websites, and from scratch with ThreeJS. Demos were created using a section of the Ancient Egypt exhibiton, with panoramas and 360 captures to demonstrate technological capabilities.
 
 ## (2D) Micr.io
 [Micr.io](https://micr.io/products) allows high image upload and tours through interactive images and markers. This is currently being used by [MoMa through their installation iamges](https://www.moma.org/calendar/exhibitions/5175) to provide more immersive experiences within their installations. 
@@ -14,7 +14,7 @@ There are compilations of different 360 tour platforms online. Many are for real
 - [https://www.capterra.com/virtual-tour-software/?pricing_options=FREE_VERSION](https://www.capterra.com/virtual-tour-software/?pricing_options=FREE_VERSION)
 - [https://www.g2.com/categories/virtual-tour](https://www.g2.com/categories/virtual-tour)
 
-With the demo, we used Theasys, a free 360 viewing platform that has mobile friendly features.
+For 360 capture, the iPhone application [Teleport: 360° Camera](https://apps.apple.com/us/app/teleport-360-camera/id6476905405) was used. For official purposes, a 360 camera would be preferable for higher quality scans. With the demo, we used Theasys, a free 360 viewing platform that has mobile friendly features.
 
 ### Demo Example
 [https://exhibition-interactive-demos-theasys.vercel.app/](https://exhibition-interactive-demos-theasys.vercel.app/)
